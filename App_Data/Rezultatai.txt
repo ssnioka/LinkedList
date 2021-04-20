@@ -1,0 +1,20 @@
+Initial data 
+Services:
+---------------------------------
+|ID    |           Title|  Price|
+---------------------------------
+|123   |          vanduo|     10|
+|125   |         elektra|      5|
+|126   |        siuksles|      2|
+|127   |       tvarkymas|      1|
+---------------------------------
+Initial data 
+Residents:
+----------------------------------------------------------------------------------
+|Name        |Surname     |Address         |     Month| ServiceID| Service Amount|
+----------------------------------------------------------------------------------
+|Antanas     |Antanaitis  |Jotvingiu 15    |    Spalis|       123|              2|
+|Juozas      |Juozaitis   |Karaliaus 17    |   Gruodis|       123|              1|
+|Pranas      |Pranaitis   |Ukmerges 15     | Lapkritis|       125|              3|
+|Kasparas    |Kasparaitis |Vetrunges 1     |  Birzelis|       127|              1|
+----------------------------------------------------------------------------------
